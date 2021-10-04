@@ -1,6 +1,12 @@
 #File3.txt: Added Locally
 Line# 2
+
 Line#3: 4 lines added Locally
 Line#4: local
 Line#5: local
 Line#6: local
+
+Line#3: 4 lines Added from GitHub after Commit# fbd81bb
+LIne#4:
+Line#5:
+Line#6:
