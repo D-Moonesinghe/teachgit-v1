@@ -1,4 +1,6 @@
 #File1.txt
-Line 2 added from the local repo.
+NewLine#2 added via local git.
+NewLine#3 added via local git
+OldLine 2 added from the local repo.
 Line 3 added from github.
 Line 4 added from github.
