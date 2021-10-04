@@ -1,1 +1,2 @@
 #File1.txt
+Line 2 added from the local repo.
